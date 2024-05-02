@@ -19,7 +19,7 @@ Utilisation
 Clonez le dépôt :
 bash
 Copy code
-git clone https://github.com/votre-utilisateur/script-vulnerabilites.git
+https://github.com/BouramaNG/scan_vulnerablity.git
 cd script-vulnerabilites
 Installez les dépendances :
 bash
